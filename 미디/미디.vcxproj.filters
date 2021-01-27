@@ -29,10 +29,10 @@
     <ClInclude Include="RtMidi.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="keys.h">
+    <ClInclude Include="key_data.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="key_data.h">
+    <ClInclude Include="keys.hpp">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

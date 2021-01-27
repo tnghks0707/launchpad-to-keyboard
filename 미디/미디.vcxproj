@@ -144,7 +144,7 @@
     <ClCompile Include="init.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="keys.h" />
+    <ClInclude Include="keys.hpp" />
     <ClInclude Include="key_data.h" />
     <ClInclude Include="RtMidi.h" />
   </ItemGroup>

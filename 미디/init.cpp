@@ -14,7 +14,7 @@ processorArchitecture='*' publicKeyToken='6595b64144ccf1df' language='*'\"")
 #include <thread>
 //#include <crtdbg.h>
 #include "RtMidi.h"
-#include "keys.h"
+#include "keys.hpp"
 #include "key_data.h"
 
 
